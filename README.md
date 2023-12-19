@@ -1,1 +1,1 @@
-# tech-quiz-webaite
+# tech-quiz-website
